@@ -1,6 +1,6 @@
 # This is a work by
 # Vitalijs Smirnovs
-# Stydent ID #
+# Stydent ID # g00317774
 
 # Problem 1 :
 # Solution
