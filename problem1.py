@@ -7,9 +7,16 @@
 
 # Ask user for input
 # Use int() as integer is needed
-num = int(input("Please enter a positive integer: " ))
-# create a list in range from 1 to user
-# input number "num" +1. 
+# This is a work by
+# Vitalijs Smirnovs
+# Stydent ID # g00317774
+
+# Problem 1: Write a proram that asks the user to input any positive integer 
+# Solution:
+# ask a user to inpit a number 
+num = int(input("Please, enter a positive integer: ")) 
+
+# create a list of numbers between 1 and inputed number
 # range function does not include the last number specified
 i=list(range(1,num+1))
 

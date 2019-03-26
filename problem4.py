@@ -1,3 +1,9 @@
+# This is a work by
+# Vitalijs Smirnovs
+# Stydent ID # g00317774
+
+# Problem 4:
+# Solution: write a program that asks the user o input any positive
 num = int(input("Please enter a positive integer: " ))
 mylist=[num]
 i=num
